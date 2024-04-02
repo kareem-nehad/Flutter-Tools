@@ -1,9 +1,5 @@
 # Packages
 
-1. [README.md](README.md#L7)
-
-
----
 - *Flutter SVG* 
 > ##### To draw SVG files
 ```dart
